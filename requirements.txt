@@ -24,8 +24,7 @@ scipy==1.6.3
 six==1.15.0
 sklearn==0.0
 threadpoolctl==2.1.0
-https://download.pytorch.org/whl/cpu/torch-1.7.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
-https://download.pytorch.org/whl/cpu/torchvision-0.8.1%2Bcpu-cp36-cp36m-linux_x86_64.whl
+torchsummary==1.5.1
 transforms==0.1
 typing-extensions==3.10.0.0
 urllib3==1.26.4
